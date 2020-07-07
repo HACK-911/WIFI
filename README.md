@@ -16,11 +16,11 @@ $ termux-setup-storage
 
 $ cd /sdcard
 
-$ git clone https://github.com/HACK-911/HACK
+$ git clone https://github.com/HACK-911/WIFI
 
-$ cd HACK
+$ cd WIFI
 
-$ bash WIFI.sh
+$ bash HACK.sh
 
 Peringatan
 
